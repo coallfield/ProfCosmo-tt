@@ -1,1 +1,1 @@
-export const SERVER_URL = 'http://localhost:5000/api'
+export const SERVER_URL = 'https://prof-cosmo-tt-server.vercel.app/api'
