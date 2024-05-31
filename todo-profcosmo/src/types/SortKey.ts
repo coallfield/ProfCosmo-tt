@@ -1,0 +1,1 @@
+export type SortKey = 'title' | 'body' | 'email' | 'status' | 'id' | ''
